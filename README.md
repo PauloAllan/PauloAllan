@@ -27,7 +27,7 @@ Sou um criador de conteúdo apaixonado por programação e tecnologia, especialm
       <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/PauloAllan">
-      <img style=";" align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=radical" />
+      <img style=";" align="center" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=radical" />
     </a>
   </div>
 

@@ -24,10 +24,10 @@ Sou um criador de conteúdo apaixonado por programação e tecnologia, especialm
 
   <div style="padding-right: 20px;">
     <a href="https://github.com/PauloAllan">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=radical" />
+      <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/PauloAllan">
-      <img style=";" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=radical" />
+      <img style=";" align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=radical" />
     </a>
   </div>
 

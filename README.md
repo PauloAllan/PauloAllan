@@ -1,18 +1,21 @@
 ## Oi, eu sou o Paulo Allan, criador de conteúdo de programação e tecnologia!
 
-Sou apaixonado por desenvolvimento web e móvel, e adoro compartilhar meu conhecimento sobre:
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true"
+    media="(prefers-color-scheme: radical), (prefers-color-scheme: gruvbox)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true" />
 </picture>
+<br>
+Sou apaixonado por desenvolvimento web e móvel, e adoro compartilhar meu conhecimento sobre:
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PauloAllan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +26,7 @@ Sou apaixonado por desenvolvimento web e móvel, e adoro compartilhar meu conhec
   <img align="center" alt="PauloAllan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PauloAllan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
   
   ##
 

@@ -1,8 +1,10 @@
-## Olá, eu sou o Paulo Allan! 👋
-
+ 
+## Resumo profissional:
+Olá, eu sou o Paulo Allan! 👋
 Sou um criador de conteúdo apaixonado por programação e tecnologia, especialmente no desenvolvimento web e móvel. Estou sempre compartilhando meu conhecimento e experiência em:
 
-<div style="display: inline_block"><br>
+### Tecnologias que eu utilizo:
+<div>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ionic" height="30" width="auto" src="https://ionicframework.com/img/meta/logo.png">
@@ -13,6 +15,9 @@ Sou um criador de conteúdo apaixonado por programação e tecnologia, especialm
 </div>
 
 ##
+
+### Contatos:
+
 <div> 
   <a href="https://www.instagram.com/eu.pauloallan_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord"></a> 

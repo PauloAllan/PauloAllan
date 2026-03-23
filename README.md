@@ -1,36 +1,74 @@
-<h1>👋 Olá, eu sou Paulo Allan </h1>
+# 👋 Olá, eu sou Paulo Allan
 
-Sou um entusiasta da tecnologia e dos dados, acreditando no poder da informação para transformar operações e decisões.
-Atualmente, foco minha trajetória em Desenvolvimento Back-End e Análise de Dados, com domínio em Python, SQL, Power BI e Git, e interesse crescente por Inteligência Artificial.
+**Estudante de Gestão em Tecnologia pela Estácio** | **Técnico em Informática pelo SENAC RJ (100% concluído)**
 
-Minha missão é converter dados em insights e automação, unindo lógica, criatividade e propósito para gerar valor real.
-Com base técnica sólida e experiência prática na área operacional, trago uma visão estratégica de negócios e tecnologia, sempre buscando simplificar o complexo e tornar o trabalho mais inteligente.
+Sou apaixonado por **dados, automação e desenvolvimento web**, transformando informações em soluções práticas e visuais. Atualmente me desenvolvendo em **Python, SQL, Power BI** e **Business Analytics**, com diferencial em **Next.js + TypeScript** para criar dashboards e projetos de controle completos.
 
-<h2>⚙️ Tecnologias e Ferramentas</h2>
-<div> <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"> <img align="center" alt="Pandas" height="40" width="40" src="https://img.icons8.com/color/48/000000/pandas.png"> <img align="center" alt="NumPy" height="40" width="40" src="https://img.icons8.com/color/48/000000/numpy.png"> </div>
+**Meu foco?** Criar sistemas que mostram **desempenho claro** através de gráficos e métricas, trazendo soluções reais para os negócios. Amo **games** e **treinamento físico** - acredito que **foco + consistência** são a chave para o desenvolvimento pessoal e profissional!
 
+## ⚙️ Stack & Tecnologias
 
-<h2>💼 Foco Profissional</h2>
+```mermaid
+graph TB
+    A[Frontend] --> B[Next.js]
+    A --> C[TypeScript]
+    A --> D[HTML/CSS/JS]
+    
+    E[Backend/Data] --> F[Python]
+    E --> G[SQL]
+    E --> H[Power BI]
+    
+    I[Automação] --> J[Business Analytics]
+```
 
-➔ Desenvolvimento Back-End com Python e integração com bancos de dados
-<br/>
-➔ SQL avançado e manipulação de dados para análise e relatórios
-<br/>
-➔ Criação de dashboards e análises em Power BI
-<br/>
-➔ Automação de processos e transformação de dados em insights
-<br/>
-➔ Princípios de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento
-<br/>
-➔ Interesse crescente em Inteligência Artificial e Machine Learning
+<div align="center">
+  <img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="NextJS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="SQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="PowerBI" width="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/Power-BI.svg">
+  <img alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
-<h2>📊 Estatísticas do GitHub</h2>
-<div style="display: flex; flex-wrap: wrap;"> <a href="https://github.com/PauloAllan"> <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=radical" /> </a> <a href="https://github.com/PauloAllan"> <img align="center" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=radical" /> </a> </div>
-📫 Contatos
-<div> <a href="mailto:pauloosilbat@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/paulo-allan-808b57253" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/PauloAllan" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
+## 💼 O que eu entrego
 
-<h2> 🚀 Projetos Recentes</h2>
+- **🚀 Dashboards interativos** (Power BI + Next.js) com métricas em tempo real
+- **📊 Projetos de controle** - acompanhamento de desempenho visual
+- **🔧 Automação de processos** com Python + SQL
+- **🌐 Aplicações web modernas** (Next.js + TypeScript)
+- **📈 Análise de dados** transformando números em decisões
 
-➔ Dashboards Power BI – Visualizações interativas para monitoramento de métricas<br/>
-➔ Projeto Back-End em Python – APIs REST com integração a bancos de dados<br/>
-➔ Análise de dados operacionais – Transformação de dados em decisões estratégicas
+## 🔥 Projetos em Destaque
+
+| Projeto | Tecnologias | Resultado |
+|---------|-------------|-----------|
+| **Dashboard de Performance** | Next.js, TypeScript, Power BI | Visualização completa de KPIs |
+| **Sistema de Controle** | Python, SQL, React | Monitoramento automatizado |
+| **Analytics Operacional** | Power BI, Python | Insights para decisões estratégicas |
+
+## 📊 GitHub Stats
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PauloAllan&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAllan&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+## 📫 Me encontre em
+
+<div align="center">
+  <a href="mailto:pauloosilbat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-allan-808b57253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PauloAllan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+**💡 "Foco + Consistência = Resultados"**  
+*Games, treino e código - minha fórmula para evoluir todos os dias! 🎮💪*

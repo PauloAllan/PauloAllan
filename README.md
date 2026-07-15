@@ -92,11 +92,11 @@ Automação de tarefas operacionais e geração de relatórios.
 
 <p align="left">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/pauloallan/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:pauloosilbat@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 

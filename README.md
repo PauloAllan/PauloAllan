@@ -1,1 +1,116 @@
+<h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
 
+<p align="center">
+Analista de Riscos Operacionais • Python • Business Intelligence • Automação
+</p>
+
+<p align="center">
+Transformando processos manuais em soluções inteligentes através de dados e programação.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💼 Analista de Riscos Operacionais
+- 🎓 Gestão de Tecnologia da Informação
+- 🐍 Estudando Python para desenvolvimento Backend e Automação
+- 📊 Focado em Business Intelligence e Engenharia de Dados
+- 📍 Rio de Janeiro - Brasil
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL
+- Power BI
+- Excel Avançado
+- Power Query
+- Git & GitHub
+- Inglês
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+🚛 Risk Control Dashboard
+
+Dashboard em Python para controle operacional com exportação automática para Excel.
+
+📊 Business Intelligence
+
+Dashboards e análises utilizando Power BI, SQL e Excel.
+
+🤖 Python Automation
+
+Automação de tarefas operacionais e geração de relatórios.
+
+---
+
+## 🎯 Objetivos
+
+- Construir soluções utilizando Python
+- Especializar-me em Business Intelligence
+- Aprender Engenharia de Dados
+- Desenvolver APIs e sistemas Backend
+
+---
+
+## 🌎 Contato
+
+<p align="left">
+
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"A melhor automação é aquela que elimina um problema antes mesmo que ele aconteça."*
+
+</p>

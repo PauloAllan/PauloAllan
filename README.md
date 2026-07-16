@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
 
 <p align="center">
-Analista de Riscos Operacionais • Python • Business Intelligence • Automação
+Auxiliar de Riscos Operacionais • Python • Business Intelligence • Automação
 </p>
 
 <p align="center">

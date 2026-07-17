@@ -57,7 +57,7 @@ Transformando processos manuais em soluções inteligentes através de dados e p
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PauloAllan&theme=github-dark&hide_border=true"/>
 
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
 
 <p align="center">
-Auxiliar de Riscos • Analise de Dados • Python • Business Intelligence • Automação
+Analista de Dados • Analise de Dados • Python • Business Intelligence • Automação
 </p>
 
 <p align="center">

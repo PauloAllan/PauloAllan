@@ -14,7 +14,7 @@ Transformando processos manuais em soluções inteligentes através de dados e p
 
 - 💼 Análises de Riscos Operacionais
 - 🎓 Gestão de Tecnologia da Informação
-- 🐍 Estudando Python para desenvolvimento Backend e Automação
+- 🐍 Estudando Python para Analise de Dados e Automação
 - 📊 Focado em Business Intelligence e Engenharia de Dados
 - 📍 Rio de Janeiro - Brasil
 

@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
 
 <p align="center">
-Analista de Dados • Intelligence Artificial • Python • Business Intelligence • Automação
+Data Analytics • SQL • Python • Power BI • Excel • Automação
 </p>
 
 <p align="center">

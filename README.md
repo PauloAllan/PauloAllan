@@ -1,111 +1,33 @@
-<h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
-
 <p align="center">
-Data Analytics • SQL • Python • Power BI • Excel • Automação
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pauloallan&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=pauloallan&theme=github-dark" alt="Paulo Allan profile hero" /></picture>
 </p>
 
 <p align="center">
-Transformando processos manuais em soluções inteligentes através de dados e programação.
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=pauloallan&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=pauloallan&theme=github-dark" alt="About Paulo Allan" /></picture>
 </p>
-
----
-
-## 👨‍💻 Sobre mim
-
-- 💼 Análises de Riscos Operacionais
-- 🎓 Gestão de Tecnologia da Informação
-- 🐍 Estudando Python para Analise de Dados e Automação
-- 📊 Focado em Business Intelligence e Engenharia de Dados
-- 📍 Rio de Janeiro - Brasil
-
----
-
-## 🚀 Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
-
+  <img src="https://skillicons.dev/icons?i=python,html,javascript,css,java&perline=8&theme=dark" alt="Selected language and technology logos" />
 </p>
 
----
-
-## 📚 Atualmente estudando
-
-- Python
-- SQL
-- Power BI
-- Excel Avançado
-- Power Query
-- Git & GitHub
-- Inglês
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloAllan&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloAllan&theme=github_dark" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pauloallan&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=pauloallan&theme=github-dark" alt="GitHub Stats" /></picture>
 </p>
-
----
-
-## 🔥 Sequência de contribuições
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PauloAllan&theme=github-dark&hide_border=true"/>
-
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pauloallan&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=pauloallan&theme=github-dark" alt="pauloallan featured projects" /></picture>
 </p>
 
----
-
-## 📌 Projetos em destaque
-
-🚛 Risk Control Dashboard
-
-Dashboard em Python para controle operacional com exportação automática para Excel.
-
-📊 Business Intelligence
-
-Dashboards e análises utilizando Power BI, SQL e Excel.
-
-🤖 Python Automation
-
-Automação de tarefas operacionais e geração de relatórios.
-
----
-
-## 🎯 Objetivos
-
-- Construir soluções utilizando Python
-- Especializar-me em Business Intelligence
-- Aprender Engenharia de Dados
-- Desenvolver APIs e sistemas Backend
-
----
-
-## 🌎 Contato
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pauloallan/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:pauloosilbat@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
+## 🤝 Connect With Me
 
 <p align="center">
-
-> *"A melhor automação é aquela que elimina um problema antes mesmo que ele aconteça."*
-
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=pauloallan&theme=github-dark&website=https%3A%2F%2Fportfolio-pauloallan.streamlit.app%2F&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=pauloallan&theme=github-dark&website=https%3A%2F%2Fportfolio-pauloallan.streamlit.app%2F" alt="pauloallan social links" /></picture>
 </p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauloallan) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-pauloallan.streamlit.app/)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>

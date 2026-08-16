@@ -1,50 +1,54 @@
-<h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
+<h1 align="center">Hi, I'm Paulo Allan 👋</h1>
 
 <p align="center">
-Data Analytics • SQL • Python • Power BI • Excel • Automação
+  <b>Data Analyst | Process Automation | Business Intelligence</b><br>
+  <i>Transforming raw data and manual workflows into actionable business insights.</i>
 </p>
 
 <p align="center">
-Transformando processos manuais em soluções inteligentes através de dados e programação.
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-- 💼 Análises de Riscos Operacionais
-- 🎓 Gestão de Tecnologia da Informação
-- 🐍 Estudando Python para Analise de Dados e Automação
-- 📊 Focado em Business Intelligence e Engenharia de Dados
-- 📍 Rio de Janeiro - Brasil
-
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
-
+  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:SEU_EMAIL@EMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+### 👨‍💻 About Me
 
-- Python
-- SQL
-- Power BI
-- Excel Avançado
-- Power Query
-- Git & GitHub
-- Inglês
+* 📊 **Focus:** Data Analytics, Business Intelligence & Data Engineering
+* 💼 **Background:** Operational Risk Analysis & IT Management
+* ⚙️ **Specialty:** Automating manual processes and building decision-driving dashboards
+* 📍 **Location:** Rio de Janeiro, Brazil
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Tools
+
+<!-- Ícones do SkillIcons (Python, SQL, VS Code, Git, GitHub) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode,git,github" />
+</p>
+
+<!-- Badges dedicadas para Power BI e Excel -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+### 📚 Currently Expanding
+
+* 🐍 Advanced Python for Data Analysis & Automation (Pandas, NumPy)
+* 🛢️ Complex SQL Queries & Database Management
+* 📊 Advanced Power BI Data Modeling & DAX
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloAllan&theme=github_dark" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloAllan&theme=github_dark" />
@@ -53,59 +57,8 @@ Transformando processos manuais em soluções inteligentes através de dados e p
 
 ---
 
-## 🔥 Sequência de contribuições
+### 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PauloAllan&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📌 Projetos em destaque
-
-🚛 Risk Control Dashboard
-
-Dashboard em Python para controle operacional com exportação automática para Excel.
-
-📊 Business Intelligence
-
-Dashboards e análises utilizando Power BI, SQL e Excel.
-
-🤖 Python Automation
-
-Automação de tarefas operacionais e geração de relatórios.
-
----
-
-## 🎯 Objetivos
-
-- Construir soluções utilizando Python
-- Especializar-me em Business Intelligence
-- Aprender Engenharia de Dados
-- Desenvolver APIs e sistemas Backend
-
----
-
-## 🌎 Contato
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pauloallan/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:pauloosilbat@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *"A melhor automação é aquela que elimina um problema antes mesmo que ele aconteça."*
-
+  <img src="https://streak-stats.demolab.com?user=PauloAllan&theme=github-dark&hide_border=true" />
 </p>

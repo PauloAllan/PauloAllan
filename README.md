@@ -1,57 +1,111 @@
-# PauloAllan
+<h1 align="center">Olá, eu sou Paulo Allan 👋</h1>
 
-> Maintainer credibility and contributor clarity.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **PauloAllan**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=PauloAllan&theme=neon" alt="PauloAllan hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=PauloAllan&theme=neon" alt="PauloAllan about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=PauloAllan&theme=neon" alt="PauloAllan stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=PauloAllan&theme=neon" alt="PauloAllan stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=PauloAllan&theme=neon" alt="PauloAllan projects section" />
-  </picture>
-</p>
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=PauloAllan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=PauloAllan&theme=neon" alt="PauloAllan social section" />
-  </picture>
+Data Analytics • SQL • Python • Power BI • Excel • Automação
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+<p align="center">
+Transformando processos manuais em soluções inteligentes através de dados e programação.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💼 Análises de Riscos Operacionais
+- 🎓 Gestão de Tecnologia da Informação
+- 🐍 Estudando Python para Analise de Dados e Automação
+- 📊 Focado em Business Intelligence e Engenharia de Dados
+- 📍 Rio de Janeiro - Brasil
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase" />
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL
+- Power BI
+- Excel Avançado
+- Power Query
+- Git & GitHub
+- Inglês
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PauloAllan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PauloAllan&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=PauloAllan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+🚛 Risk Control Dashboard
+
+Dashboard em Python para controle operacional com exportação automática para Excel.
+
+📊 Business Intelligence
+
+Dashboards e análises utilizando Power BI, SQL e Excel.
+
+🤖 Python Automation
+
+Automação de tarefas operacionais e geração de relatórios.
+
+---
+
+## 🎯 Objetivos
+
+- Construir soluções utilizando Python
+- Especializar-me em Business Intelligence
+- Aprender Engenharia de Dados
+- Desenvolver APIs e sistemas Backend
+
+---
+
+## 🌎 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pauloallan/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pauloosilbat@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"A melhor automação é aquela que elimina um problema antes mesmo que ele aconteça."*
+
+</p>

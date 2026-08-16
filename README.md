@@ -1,5 +1,8 @@
 
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=pauloallan&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=pauloallan&theme=github-dark" alt="About Paulo Allan" /></picture>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,javascript,css,java&perline=8&theme=dark" alt="Selected language and technology logos" />
